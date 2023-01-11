@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about.gif
+  image_webp : images/about/about.gif
+  title : Escuchamos y trabajamos con el cliente.
+  content : "Nuestro nivel de exigencia es mayor cada día, comprometiéndonos con los retos de nuestros clientes y de sus trabajadores en campo, y ofreciendo soluciones de ingeniería a sus principales necesidades."
+  feature_item :
+      # feature item loop
+    - title : Conectividad Global
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Accede a nuestros servicios desde cualquier parte del mundo.
+
+      # feature item loop
+    - title : Control
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Monitorice y tome decisiones sobre su empresa desde el sofà de su casa.
+
+      # feature item loop
+    - title : Mejoramos Rendimiento
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Nuestra ayuda le permitirá mejorar en aspectos inimaginables
+
+      # feature item loop
+    - title : Personalización
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : El Contacto directo con nosotros hará que la solución se adapte a su necesidad.

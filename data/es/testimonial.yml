@@ -1,0 +1,26 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Sector Logístico
+      image : images/client/fedex.png
+      image_webp : images/client/fedex.png
+      date : Sept 01, 2022
+      content : Gracias por estar solucionado todos los problemas de lógistica en el Aeroport de Barcelona BCNRT.
+
+    # testimonial item loop
+    - name : Industria Química
+      image : images/client/repsol.jpg
+      image_webp : images/client/repsol.jpg
+      date : Feb 12, 2022
+      content : Contentos de trabajar con Robitec y su Partner de pesaje oficial de Tarragona, Mauri.
+
+    # testimonial item loop
+    - name : Industria Farmacéutica
+      image : images/client/grifols.png
+      image_webp : images/client/grifols.png
+      date : Gen 10, 2023
+      content : Hemos trabajado indirectamente con Robitec a través de Mauri y estamos contentos de decir que tenemos su software en más de 5 países.

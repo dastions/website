@@ -1,0 +1,49 @@
+html {
+  background-color: rgb(21, 109, 188);
+  color: #5A6E7A;
+}
+
+body {
+  background-color: #212529;
+  font-family: "Anaheim", sans-serif;
+  color: #5A6E7A;
+  -webkit-font-smoothing: antialiased;
+}
+
+.navigation {
+  background-color: rgb(21, 109, 188);
+}
+
+.mauri-logo {
+  position: absolute;
+  right: 0;
+}
+
+.orange-icon {
+  color: rgb(21, 109, 188);
+}
+
+.hero-area {
+  height: 100vh;
+}
+
+.hero-area:before {
+  background: #5a6e7ade;
+}
+
+.counters-item {
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.copyright {
+  color: #212529;
+}
+
+.funfacts-dastions {
+  background-color: #212529d9;
+}
+
+.funfacts-backgroud {
+  background: #000 url(/images/blog/grafana/background.jpg) no-repeat 50%
+}

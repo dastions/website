@@ -1,0 +1,25 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contacta
+  subtitle : Spain
+  content : Digital Application Solutions S.L.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Tarragona, Catalonia, Spain"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@dastions.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : https://formspree.io/f/xzbojqod #contact form works with https://formspree.io
+    name : "Empresa"
+    email : "Email"
+    subject : "Títol"
+    message : "Missatge"
+    submit : "Enviar"

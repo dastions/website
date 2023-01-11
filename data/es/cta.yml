@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/slide-1.png"
+  bg_image_webp : "images/backgrounds/slide-1.png"
+  title : "¿Estás preparado para digitalizar tu empresa?"
+  content : "Comprueba cómo podemos ayudarte"
+  button:
+    enable : true
+    label : "Empiece su proyecto con nosotros"
+    link : "#contact"
