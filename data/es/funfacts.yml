@@ -1,8 +1,8 @@
 ################################# funfacts ##################################
 funfacts:
   enable : true
-  bg_image : "images//blog/grafana/background.jpg"
-  bg_image_webp : "images//blog/grafana/background.jpg"
+  bg_image : "images/backgrounds/slide-4.jpg"
+  bg_image_webp : "images/backgrounds/slide-4.jpg"
   counter_item:
     # counter item loop
     - title : "ANALÍTICA"

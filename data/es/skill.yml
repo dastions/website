@@ -1,26 +1,26 @@
 ################################# Skill ##################################
 skill:
-  enable : false
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  enable : true
+  title : Nuestras Fortalezas
+  subtitle : Expertos en Ciberseguridad, diseñamos software y abarcamos un amplio abanico en el sector digital.
+  content : Empresa formada por expertos tecnológicos y personal cualificado para garantizar la buena calidad y servicio técnico postventa a nuestros cliente.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  Ciberseguridad
       percent : 90%
 
     # skill item loop
-    - name :  Analysis
-      percent : 70%
-
-    # skill item loop
-    - name :  Design
+    - name :  Software Development
       percent : 80%
 
-    - name :  IOS Development
+    # skill item loop
+    - name :  Big Data & Analitycs
+      percent : 60%
+
+    - name :  Automaticación Industrial
       percent : 95%
 
     # skill item loop
-    - name :  Android Development
+    - name :  Cloud Digital Solutions
       percent : 75%

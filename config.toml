@@ -69,13 +69,13 @@ weight = 2
 # weight = 4
 
 [[menu.main]]
-# name = "pricing"
-# pre = "#"
-# url = "pricing"
-# weight = 5
+name = "Productos"
+pre = "#"
+url = "pricing"
+weight = 5
 
 [[menu.main]]
-name = "Proyectos"
+name = "Blog"
 # pre = "#"
 url = "blog"
 weight = 6

@@ -1,64 +1,64 @@
 ##################################### pricing ##############################
 pricing:
-  enable : false
-  title : Our Plans
+  enable : true
+  title : Nuestros Productos
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Data Collection
+      price : 89€
+      unit : Dispositivo / Mes
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Más de 100GB Disk Space
+        - Gestión de Alertas
+        - Análisis de Datos
+        - Informes de Producción
+        - Control de Cálidad
+        - Soporte técnico incluido
       button:
-        label : "Signup"
-        link : "#"
+        label : "Ver más"
+        link : "/blog/minebea-robidocs/"
 
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Truck & Scales
+      price : 149€
+      unit : Mes
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Programa Pesaje Automático
+        - Gestión de Hardware
+        - Semáforos / Barreras / Báscula
+        - Documentación en el Cloud
+        - Más de 2.000 Camiones /día
+        - Soporte técnico incluido
       button:
-        label : "Signup"
-        link : "#"
+        label : "Web externa"
+        link : "https://www.truckandscales.com"
 
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : Security
+      price : 
+      unit : Bajo presupuesto
       services:
-        - 1GB Disk Space
-        - 10 Email Account
+        - Consultoría de Seguridad
+        - P.E.M. Testing
         - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Estudio de Vulnerabilidades
+        - Seguridad de Protocolos
+        - Soporte técnico incluido
       button:
-        label : "Signup"
-        link : "#"
+        label : "Contratar"
+        link : "#contact"
 
     # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
+    - name : Custom
+      price : 
+      unit : Bajo presupuesto
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Consultoría de Software a medida
+        - App Multiplataforma
+        - CI & CD con Unit Test
+        - Modern frameworks
+        - Actualizaciones continuas
+        - Soporte técnico incluido
       button:
-        label : "Signup"
-        link : "#"
+        label : "Quiero mi App"
+        link : "#contact"
