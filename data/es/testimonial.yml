@@ -1,26 +1,32 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  bg_image : images/backgrounds/europe.png
+  bg_image_webp : images/backgrounds/europe.png
   testimonial_item :
+    - name : Sector Portuario
+      image : images/client/port.jpg
+      image_webp : images/client/port.jpg
+      date : Gen 01, 2022
+      content : Software ERP DUA Sistema automático para expedición de mercancia Portuaria. Castellon de la Plana y Tarragona. truckandscales.com
+
     # testimonial item loop
-    - name : Sector Logístico
+    - name : Logística Terrestre
       image : images/client/fedex.png
       image_webp : images/client/fedex.png
       date : Sept 01, 2022
-      content : Gracias por estar solucionado todos los problemas de lógistica en el Aeroport de Barcelona BCNRT.
+      content : Programa de Pesaje, Plataforma de Documentación de Expediciones digital para el transporte terrestre. truckandscales.com
 
     # testimonial item loop
     - name : Industria Química
       image : images/client/repsol.jpg
       image_webp : images/client/repsol.jpg
       date : Feb 12, 2022
-      content : Contentos de trabajar con Robitec y su Partner de pesaje oficial de Tarragona, Mauri.
+      content : Seguridad Industrial OT, Sistemas Automáticos y PLC en la química de Tarragona.
 
     # testimonial item loop
-    - name : Industria Farmacéutica
+    - name : Industrias Farmacéuticas
       image : images/client/grifols.png
       image_webp : images/client/grifols.png
       date : Gen 10, 2023
-      content : Hemos trabajado indirectamente con Robitec a través de Mauri y estamos contentos de decir que tenemos su software en más de 5 países.
+      content : Dastions ofrece consultoría de Seguridad en la Industria farmacéutica y venta de productos industriales.

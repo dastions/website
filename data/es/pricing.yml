@@ -15,7 +15,7 @@ pricing:
         - Control de Cálidad
         - Soporte técnico incluido
       button:
-        label : "Ver más"
+        label : "Leer más"
         link : "/blog/minebea-robidocs/"
 
     # pricing table loop

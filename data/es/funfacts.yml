@@ -7,19 +7,19 @@ funfacts:
     # counter item loop
     - title : "ANALÍTICA"
       # icon : "ti-shopping-cart" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+      count : "800"
       bg_image: "images/blog/grafana/dashboard-1.svg"
 
     # counter item loop
     - title : "BIG DATA"
       # icon : "ti-package" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "1500"
       bg_image: "images/blog/grafana/dashboard-2.svg"
 
     # counter item loop
     - title : "CONTROL"
       # icon : "ti-panel" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+      count : "160"
       bg_image: "images/blog/grafana/dashboard-4.svg"
 
     # counter item loop
