@@ -20,14 +20,14 @@ pricing:
 
     # pricing table loop
     - name : Truck & Scales
-      price : 149€
+      price : 249€
       unit : Mes
       services:
         - Programa Pesaje Automático
         - Gestión de Hardware
         - Semáforos / Barreras / Báscula
         - Documentación en el Cloud
-        - Más de 2.000 Camiones /día
+        - Más de 2.000 Camiones / día
         - Soporte técnico incluido
       button:
         label : "Web externa"
