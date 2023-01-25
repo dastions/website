@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image_webp : "images/backgrounds/main.avif"
   bg_image : "images/backgrounds/main.avif"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
+  icon : "ti-rss-alt" # themify icon pack : https://themify.me/themify-icons
   title : "Digital Application Solutions"
   content : "Consultoría de Software con soluciones para su empresa"
   button:

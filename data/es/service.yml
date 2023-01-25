@@ -1,17 +1,17 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Nuestros Servicios
+  title : Servicios
   service_item :
     # service item loop
-    - name : Software Global
+    - name : Software a Medida
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Apps conectadas en todo el mundo. Servidores Privados.
 
     # service item loop
-    - name : Automatización PLC
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Consultoría para aplicaciónes PLC conectadas a Internet.
+    - name : Ciberseguridad
+      icon : ti-lock # themify icon pack : https://themify.me/themify-icons
+      content : Consultoría y análisis de Seguridad en las empresas.
 
     # service item loop
     - name : Ingeniería
@@ -24,11 +24,11 @@ service:
       content : Diseñamos el producto final destinado la mejor solución a su consulta.
 
     # service item loop
-    - name : Venta de Productos
+    - name : E-Commerce
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Departamento comercial con nuestros partners de confianza.
+      content : Creación de tiendas Online para su comercio.
 
     # service item loop
-    - name : Networking
+    - name : Redes
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Telecomunicaciones y Segurirdad. Conectividad de dispositivos IoT y 5G
+      content : Telecomunicaciones y Segurirdad. Conectividad de dispositivos IoT y OT
