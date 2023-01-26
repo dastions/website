@@ -16,18 +16,18 @@ pricing:
         - Soporte técnico incluido
       button:
         label : "Leer más"
-        link : "/blog/minebea-robidocs/"
+        link : "/blog/data-collection/"
 
     # pricing table loop
     - name : Truck & Scales
       price : 249€
       unit : Mes
       services:
-        - Programa Pesaje Automático
-        - Gestión de Hardware
-        - Semáforos / Barreras / Báscula
-        - Documentación en el Cloud
-        - Más de 2.000 Camiones / día
+        - Plataforma de Documentación Online
+        - Gestión de Campo con Autenticación sobre la Plataforma
+        - Accesos / Expediciones / Logística
+        - Backup
+        - Más de 2.000 Transacciones / día
         - Soporte técnico incluido
       button:
         label : "Web externa"
