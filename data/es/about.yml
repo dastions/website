@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
-  enable : true
-  title : Nosotros
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Trato Personal
-    content : Nuestras soluciones son adaptables, escalables y capaces de adecuarse muy fácilmente a tu filosofía y a tus procesos de negocio, ahora y en cualquier momento de su evolución.
+  enable: true
+  title: Nosotros
+  about_item:
+  - icon: ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+    title: Consultoría a medida
+    content: Soluciones adaptables, escalables y capaces de adecuarse muy fácilmente a la filosofía y a tus procesos de negocio, ahora y en cualquier momento de su evolución.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Profesional
-    content : Trabajamos con profesionales y marcas de confianza para garantizar el buen resultado de todos nuestros proyectos.
+  - icon: ti-user # themify icon pack : https://themify.me/themify-icons
+    title: Personal cualificado
+    content: Trabajamos con profesionales y marcas de confianza para garantizar el buen resultado de todos nuestros proyectos.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Eficiente
-    content : Soluciones a medida para el cliente, escuchamos sus necesidades y le dotamos de las herramientas necesarias para dar solución a sus necesidades.
+  - icon: ti-agenda # themify icon pack : https://themify.me/themify-icons
+    title: Mejora Continua
+    content: Servicio post-venta y Soporte técnico escuchamos sus necesidades y le dotamos de las herramientas necesarias para dar solución a sus necesidades.
