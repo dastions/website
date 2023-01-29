@@ -11,4 +11,8 @@ social:
     link : "https://www.dastions.com/vcf/oriol.vcf"
 ---
 
-Software Engineer and Developer. Enterprising and creative, different from the others and eager to fulfill my dreams and illusions. Born in a Mediterranean city, Tarragona, I love the nature and the peace of the sea at the same time I adore the new technologies and frameworks that make this world easy for every body. My [Website](https://maguri.github.io/cv/).
+**Software Engineer y Fundador de *Dastions*.**
+
+Emprendedor y creativo, trabajo cada día más y mejor con ilusión para cumplir mis sueños. Nacido en el Mediterraneo, Tarragona, amante de la naturaleza y la paz que me da el mar, a la vez que un inquieto investigador en las últimas tendencias tecnológicas que nos permita hacer de este, un mundo mejor para todos. 
+
+Mi libro faborito, [*The Book of Joy*](https://www.google.com/search?q=the+book+of+joy), *Dalai Lama XIV Bstan-vdzin-rgya-mtsho* y *Desmond Tutu*.

@@ -1,6 +1,6 @@
 ---
 title: "Software Integration Minebea-Intec"
-date: 2022-05-12T14:51:12+06:00
+date: 2022-12-12T14:51:12+06:00
 author: Oriol Mauri
 image_webp: images/blog/minebea-software.png
 image: images/blog/minebea-software-1.png
