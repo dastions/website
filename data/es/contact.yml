@@ -18,8 +18,8 @@ contact:
   contact_form:
     enable : true
     form_action : https://formspree.io/f/xqkoegly #contact form works with https://formspree.io
-    name : "Empresa"
+    name : "Nombre de su Empresa"
     email : "Email"
-    subject : "Títol"
-    message : "Missatge"
-    submit : "Enviar"
+    subject : "Asunto"
+    message : "Mensaje"
+    submit : "Contactar"
