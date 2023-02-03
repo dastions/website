@@ -8,7 +8,7 @@ description : "Aplicación para el Control de Accesos y Parking"
 
 ---
 
-Nuestra aplicación para el control de accesos es una de nuestras propuestas más interesantes en Dastions, junto con [T&S](https://www.truckandscaules.com), la **ciberseguridad**, y el Control de Producción en la [Industria 4.0](/blog/data-collection) y el **IoT**.
+Nuestra aplicación para el control de accesos es una de nuestras propuestas más interesantes en Dastions, junto con [T&S](https://www.truckandscaules.com), la **ciberseguridad**, y el Control de Producción en la [Industria 4.0](/blog/data-collection) con **IoT**.
 
 
 ## Funciones Principales
