@@ -98,8 +98,14 @@ google_analytics_id = "" # Your ID
 post_share = false
 
 [params.footer]
-logo = "images/logo-dastions.png"
-#link = "https://www.bmauri.com"
+logo = "images/badge_ariba.png"
+link = "http://discovery.ariba.com/profile/AN11171179045"
+alt  ="Ver el perfil de Digital Application Solutions S.L. en Ariba Discovery"
+
+[params.product]
+logo = "images/truckandscales.png"
+link = "http://www.truckandscales.com"
+alt  = "Truck and Scales de Digital Application Solutions S.L."
 
 # preloader
 [params.preloader]

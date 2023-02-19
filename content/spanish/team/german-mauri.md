@@ -2,6 +2,7 @@
 title: "German Mauri"
 image: "/images/team/team-2.jpg"
 email: "comercial@robitec.es"
+draft: true
 social:
   - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
     link : "https://www.linkedin.com/in/german-mauri-collado-69558652/"
