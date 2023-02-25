@@ -98,7 +98,7 @@ google_analytics_id = "" # Your ID
 post_share = false
 
 [params.footer]
-logo = "images/badge_ariba.png"
+logo = "images/dastions-ariba.png"
 link = "http://discovery.ariba.com/profile/AN11171179045"
 alt  ="Ver el perfil de Digital Application Solutions S.L. en Ariba Discovery"
 
