@@ -13,6 +13,6 @@ social:
 
 **Software Engineer y Fundador de *Dastions*.**
 
-Emprendedor y creativo, trabajo cada día más y mejor con ilusión para cumplir mis sueños. Nacido en el Mediterraneo, Tarragona, amante de la naturaleza y la paz que me da el mar, a la vez que un inquieto investigador en las últimas tendencias tecnológicas que nos permita hacer de este, un mundo mejor para todos. 
+Emprendedor y creativo, trabajo cada día más y mejor con ilusión para cumplir mis sueños. Nacido en el Mediterraneo, Tarragona, amante de la naturaleza y la paz que aporta el mar, a la vez de ser inquieto  emprendedor e investigador en las últimas tendencias tecnológicas para hacer de este un mundo mejor para todos. 
 
-Mi libro faborito, [*The Book of Joy*](https://www.google.com/search?q=the+book+of+joy), *Dalai Lama XIV Bstan-vdzin-rgya-mtsho* y *Desmond Tutu*.
+Mi libro favorito, [*The Book of Joy*](https://www.google.com/search?q=the+book+of+joy), *Dalai Lama XIV Bstan-vdzin-rgya-mtsho* y *Desmond Tutu*.
