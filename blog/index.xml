@@ -7,23 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright &amp;copy; 2020 Designed by Themefisher</copyright>
-    <lastBuildDate>Mon, 12 Dec 2022 14:51:12 +0600</lastBuildDate><atom:link href="https://www.dastions.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 14:51:12 +0600</lastBuildDate><atom:link href="https://www.dastions.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software de Recogida de Datos</title>
+      <link>https://www.dastions.com/blog/data-collection/</link>
+      <pubDate>Mon, 01 Jan 2024 14:51:12 +0600</pubDate>
+      
+      <guid>https://www.dastions.com/blog/data-collection/</guid>
+      <description>Catálogo Online
+Conecta fácilmente tus equipos y empieza a tomar el control de tu planta de producción.</description>
+    </item>
+    
     <item>
       <title>Control de Accesos - Parking</title>
       <link>https://www.dastions.com/blog/access-control/</link>
-      <pubDate>Mon, 12 Dec 2022 14:51:12 +0600</pubDate>
+      <pubDate>Tue, 12 Dec 2023 14:51:12 +0600</pubDate>
       
       <guid>https://www.dastions.com/blog/access-control/</guid>
       <description>Nuestra aplicación para el control de accesos es una de nuestras propuestas más interesantes en Dastions, junto con T&amp;amp;S, la ciberseguridad, y el Control de Producción en la Industria 4.</description>
     </item>
     
     <item>
-      <title>Software Integration Minebea-Intec</title>
-      <link>https://www.dastions.com/blog/data-collection/</link>
-      <pubDate>Mon, 12 Dec 2022 14:51:12 +0600</pubDate>
+      <title>SOFTWARE PARA BÁSCULAS DE CAMIONES</title>
+      <link>https://www.dastions.com/blog/pesaje-automatico/</link>
+      <pubDate>Mon, 11 Dec 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://www.dastions.com/blog/data-collection/</guid>
-      <description>Aplicación Web para el control de Producción de sus máquinas Minebea  Essentus® Synus® Flexus® EWK CD VV  Funciones Principales  Control de Producción en Tiempo Real.</description>
+      <guid>https://www.dastions.com/blog/pesaje-automatico/</guid>
+      <description>Optimice su Operación de Pesaje con Nuestro Software de Automatización: Conexión Digital, Impresión Automática y Sincronización con ERP SAP.</description>
     </item>
     
   </channel>
