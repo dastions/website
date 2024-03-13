@@ -5,8 +5,8 @@ pricing:
   pricing_table :
     # pricing table loop
     - name : Data Collection
-      price : 89€
-      unit : Dispositivo / Mes
+      price :
+      unit : Producción
       services:
         - Más de 100GB Disk Space
         - Gestión de Alertas
@@ -15,28 +15,28 @@ pricing:
         - Control de Cálidad
         - Soporte técnico incluido
       button:
-        label : "Leer más"
-        link : "/blog/data-collection/"
+        label : "Sitio Web"
+        link : "http://dtm4-website.s3-website.eu-west-3.amazonaws.com"
 
     # pricing table loop
     - name : Truck & Scales
-      price : 249€
-      unit : Mes
+      price : 
+      unit : Logística
       services:
         - Plataforma de Documentación Online
-        - Gestión de Campo con Autenticación sobre la Plataforma
+        - Pesaje Automático
         - Accesos / Expediciones / Logística
         - Backup
         - Más de 2.000 Transacciones / día
         - Soporte técnico incluido
       button:
-        label : "Web externa"
+        label : "Sitio Web"
         link : "https://www.truckandscales.com"
 
     # pricing table loop
-    - name : Security
+    - name : Seguridad
       price : 
-      unit : Bajo presupuesto
+      unit : Informática
       services:
         - Consultoría de Seguridad
         - P.E.M. Testing
@@ -45,13 +45,13 @@ pricing:
         - Seguridad de Protocolos
         - Soporte técnico incluido
       button:
-        label : "Contratar"
+        label : "Contactar"
         link : "#contact"
 
     # pricing table loop
-    - name : Custom
+    - name : PLC 4.0
       price : 
-      unit : Bajo presupuesto
+      unit : Automatización
       services:
         - Consultoría de Software a medida
         - App Multiplataforma
@@ -60,5 +60,5 @@ pricing:
         - Actualizaciones continuas
         - Soporte técnico incluido
       button:
-        label : "Quiero mi App"
+        label : "Contactar"
         link : "#contact"

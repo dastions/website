@@ -1,6 +1,6 @@
 ---
 title: "Control de Accesos - Parking"
-date: 2022-12-12T14:51:12+06:00
+date: 2023-12-12T14:51:12+06:00
 author: Oriol Mauri
 image_webp: images/blog/parking.png
 image: images/blog/parking.png

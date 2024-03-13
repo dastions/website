@@ -6,8 +6,11 @@ html {
 body {
   background-color: #212529;
   font-family: "Anaheim", sans-serif;
-  color: #5A6E7A;
+  color: #b8c2c6;
   -webkit-font-smoothing: antialiased;
+}
+a {
+  color: #85aab9;
 }
 
 .navigation {
