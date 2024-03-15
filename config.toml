@@ -45,7 +45,7 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "Nosotros"
+name = "Hola"
 pre = "#"
 url = "about"
 weight = 1

@@ -17,6 +17,14 @@ a {
   background-color: rgb(21, 109, 188);
 }
 
+.h200 {
+  height: 200px;
+}
+
+.h300 {
+  height: 300px;
+}
+
 .mauri-logo {
   position: absolute;
   right: 0;

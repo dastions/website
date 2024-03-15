@@ -1,5 +1,5 @@
 ---
-title: "SOFTWARE PARA BÁSCULAS DE CAMIONES"
+title: "Sistema de Pesaje Automático"
 date: 2023-12-11T14:51:12+06:00
 author: Oriol Mauri
 image_webp: images/blog/truckandscales3d.png
@@ -8,7 +8,9 @@ description : "SOFTWARE PARA BÁSCULAS DE CAMIONES"
 
 ---
 
-Optimice su Operación de Pesaje con Nuestro Software de Automatización: Conexión Digital, Impresión Automática y Sincronización con **ERP SAP**.
+**Sistemas funcionando con más de 1.500 camiones / día.**
+
+Optimice su Operación de Pesaje con Nuestro Software de Automatización: Conexión Digital y Sincronización con **ERP SAP**.
 
 En un mundo empresarial cada vez más digitalizado, la eficiencia operativa es clave para el éxito de su organización. La gestión precisa y rápida del pesaje de camiones es fundamental en industrias como la logística y la manufactura. Presentamos nuestro innovador software de automatización de pesaje, diseñado para transformar por completo su proceso de pesaje con funciones avanzadas y una integración perfecta con el sistema ERP SAP.
 <img src="/images/blog/diagrama-pesaje-automatico.png" class="img-fluid" alt="Camion Báscula" style="margin: 20px">

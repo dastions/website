@@ -2,8 +2,8 @@
 title: "Software de Recogida de Datos"
 date: 2024-01-01T14:51:12+06:00
 author: Oriol Mauri
-image_webp: images/blog/minebea-software.png
-image: images/blog/minebea-software-1.png
+image_webp: images/blog/data-collection.png
+image: images/blog/data-collection.png
 description : "Minebea Intec Software weighing MES Analytics"
 ---
 <a class="btn btn-transparent" href="http://dtm4-website.s3-website.eu-west-3.amazonaws.com" target="_blank">Catálogo Online</a>
