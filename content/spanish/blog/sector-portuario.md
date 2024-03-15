@@ -1,45 +1,45 @@
 ---
-title: "Control de Accesos - Parking"
-date: 2023-12-12T14:51:12+06:00
-author: Oriol Mauri
-image_webp: images/blog/parking.png
-image: images/blog/parking.png
-description : "Aplicación para el Control de Accesos y Parking"
+title: "Sector Portuario"
+date: 2024-01-01T12:51:12+06:00
+author: 
+image_webp: images/blog/sector-portuario.png
+image: images/blog/sector-portuario.png
+description : "Aplicación Logística Marítima"
 
 ---
 
-Software de Control de Accesos, con Cámaras de Léctura de Matrículas y Terminales de Pago y Ticketing.
+Software de Control de Pesaje en el Sector Portuario, con Identificación de Matrículas y Expedicion de Documentos.
 
 
-## Funciones Principales Parking
+## Automatización
 - **Lectura de Matrículas** por OCR Automática
 - Tarjetas Identificativas de Personal
 - Terminal de **Pago NFC** - ContactLess
 
-<img src="/images/blog/control-de-accesos.png" class="img-fluid" alt="Control Parkgin" style="margin: 20px">
+<img src="/images/blog/puerto-movimiento.png" class="img-fluid" alt="Control Parkgin" style="margin: 20px">
 
 
-## Parking App
+## Programa de Camiones
 - Listados de **Matrículas Autorizadas**.
 - Diferenciación entre Zonas y Accesos.
 - Control de **Barreras**, Semáforos, Inductivos, ...
 - **Control manual** sobre los elementos de campo desde App.
 
+<img src="/images/blog/camaras-4-port.png" class="img-fluid" alt="Camera LPR OCR" style="margin: 20px">
 
+El Software ofrece la posibilidad de personalizar la captura de información, reportes y notificaciones con el fin de adaptarse en lo posible a las operaciones particulares de cada empresa.
 
 #### Versión Cloud o Versión Local
 Puede instalar el software en su infraestructura o usar la versión Cloud y pagar solo por su uso.
 
-<img src="/images/blog/cloud-local.png" class="img-fluid" alt="Cloud OCR" style="margin: 20px">
-
-- **Control de Acceso**.
-- Visualización desde el móvil.
-- Extracción de **Informes** y **Listados**.
+- **Control de Básculas**.
+- Visualización en tiempo real.
+- Expdición de **Informes** y **Listados**.
 
 Controle las entradas y salidas desde su oficina o incluso desde casa.
 
-<img src="/images/blog/camaras.png" class="img-fluid" alt="Camera LPR OCR" style="margin: 20px">
+<img src="/images/blog/cloud-local.png" class="img-fluid" alt="Cloud OCR" style="margin: 20px">
 
-###### Podemos Automatizar tu instalación actual sin cambiar su instalación!
+#### Podemos Automatizar tu instalación!
 
-*Expedicion de Documentos Transporte y Logística* <a href="https://www.truckandscales.com" target="_blank">Para empresas</a>.
+- *Aplicación de Expedicion de Documentos Transporte y Logística.* **<a href="https://www.truckandscales.com" target="_blank">Ver Aplicación</a>.**

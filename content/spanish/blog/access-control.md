@@ -1,5 +1,5 @@
 ---
-title: "Control de Accesos - Parking"
+title: "Control de Accesos"
 date: 2023-12-12T14:51:12+06:00
 author: Oriol Mauri
 image_webp: images/blog/parking.png
@@ -40,6 +40,6 @@ Controle las entradas y salidas desde su oficina o incluso desde casa.
 
 <img src="/images/blog/camaras.png" class="img-fluid" alt="Camera LPR OCR" style="margin: 20px">
 
-###### Podemos Automatizar tu instalación actual sin cambiar su instalación!
+###### Podemos Automatizar tu instalación actual sin modificar sus equipos!
 
 *Expedicion de Documentos Transporte y Logística* <a href="https://www.truckandscales.com" target="_blank">Para empresas</a>.
