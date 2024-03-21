@@ -13,13 +13,16 @@ contact:
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@dastions.com"
 
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: 977 13 · 12 · 06"
+
 
   # Contact form
   contact_form:
     enable : true
     form_action : https://formspree.io/f/mnqkobqz #contact form works with https://formspree.io
-    name : "Nombre de su Empresa"
-    email : "Email"
+    name : "Nombre / Empresa"
+    email : "Su correo electrónico"
     subject : "Asunto"
     message : "Mensaje"
     submit : "Contactar"

@@ -7,5 +7,5 @@ cta:
   content : "No dudes en contactarnos"
   button:
     enable : true
-    label : "Pedir información"
-    link : "#contact"
+    label : "Ver lo que hacemos"
+    link : "/blog"
