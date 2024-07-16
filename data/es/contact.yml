@@ -2,20 +2,26 @@
 contact:
   enable : true
   title : Contacta
-  subtitle : Spain
+  subtitle : © Dastions.com
   content : Digital Application Solutions S.L.
 
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Tarragona, Catalonia, Spain"
+    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      info : "Tarragona, Catalonia, Spain (LinkedIn)"
+      link : https://www.linkedin.com/company/dastions/
 
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@dastions.com"
+      link : mailto:info@dastions.com
 
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: 977 13 · 12 · 06"
+      link : tel:34977131206
 
+    - icon : ti-themify-favicon # themify icon pack : https://themify.me/themify-icons
+      info : "Contactar por WhatsApp"
+      link : https://wa.me/34620717157
 
   # Contact form
   contact_form:

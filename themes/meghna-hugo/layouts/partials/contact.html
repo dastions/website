@@ -25,8 +25,10 @@
 				<div class="contact-details">
 					{{ range .contact_list }}
 					<div class="con-info clearfix">
-						<i class="{{ .icon }}"></i>
-						<span>{{ .info }}</span>
+						<a href="{{ .link }}">
+							<i class="{{ .icon }}"></i>
+							<span>{{ .info }}</span>
+						</a>
 					</div>
 					{{ end }}
 				</div>
@@ -61,8 +63,10 @@
 			<div class="contact-details">
 				{{ range .contact_list }}
 				<div class="con-info clearfix">
-					<i class="{{ .icon }}"></i>
-					<span>{{ .info }}</span>
+					<a href="{{ .link }}">
+						<i class="{{ .icon }}"></i>
+						<span>{{ .info }}</span>
+					</a>
 				</div>
 				{{ end }}
 			</div>
